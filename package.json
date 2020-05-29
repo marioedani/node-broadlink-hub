@@ -9,7 +9,6 @@
 		"optist": "^1.0.6",
 		"keeptime": "^1.4.0",
 		"tr-apisrv": "^0.0.2",
-		"utf-8-validate": "^5.0.2",
 		"ws": "^7.2.3"
 	},
 	"scripts": {
